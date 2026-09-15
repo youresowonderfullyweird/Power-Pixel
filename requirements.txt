@@ -1,0 +1,8 @@
+# No third-party Python packages required — everything uses the standard library.
+#
+# External (non-pip) dependencies:
+#   - Blender 3.6+ with the "blosm" addon installed and enabled
+#       https://github.com/vvoovv/blosm
+#   - (Optional) exiftool on PATH, only needed if you want to read GPS embedded
+#     directly in the video file rather than from a .SRT/.GPX sidecar
+#       https://exiftool.org/
